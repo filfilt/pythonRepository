@@ -1,0 +1,24 @@
+Getting started with Python Language
+  ------------------------------
+Assigning Values to variables
+• Syntax
+• Block Indentation
+• Datatypes
+• String
+• Set
+• Numbers
+• list
+• Dictionary
+• Tuples
+
+•Collections
+• Lists
+• Tuples
+• Dictionaries
+Set
+defaultdict
+•User Input
+‘Built in Modules and Functions
+• Creating a module
+• String function - str() and repro
+• Help Utility
