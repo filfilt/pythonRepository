@@ -11,7 +11,14 @@ lst1 = [12,'nega','tafere','m',30]
 lst2 = ['Abebe','Tigabu']
 print(lst1*2)
  '''
- #Eg3:
+ 
+#Eg3:
+'''
+lst1 = [12,'nega','tafere','m',30]
+lst1[1]='eyos'
+print(lst1)
+ '''
+ #Eg4:
 
 lst1 = [12,'nega','tafere','m',30]
 lst2 = ['Abebe','Tigabu']
