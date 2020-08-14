@@ -3,7 +3,3 @@ Part 2- First Program and comment
 Comment:
       For single line  -> #  =>short cut  Ctrl + k + C = #
       For multi line  -> ("""  """) or ('''  ''')
-First Code:
-          print("Hello World")
-
-          

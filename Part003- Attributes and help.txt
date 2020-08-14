@@ -1,0 +1,9 @@
+Part 3- Attributes and help
+-------------/------------
+Get attributes and methods
+To get methods and attributes with that variables
+greeting =“ hello”
+name =“yoseph’
+print(dir(name))
+If we want to check the methods and attrbutes of a given type, we can use the following:
+print(help(str))

@@ -1,0 +1,10 @@
+First Code:
+          print("Hello World")
+#Code
+greeting = "Hello"
+name = "nega"
+# print(greeting+" "+name)
+
+#To know the methode those are used to name
+# print(name)
+# print(help(str))
